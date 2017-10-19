@@ -1,0 +1,28 @@
+body {
+font-family: Arial, Verdana, sans-serif;
+color: #ff99cc;
+padding: 10px;
+}
+h1{
+  color:#ffffff
+}
+h1{
+  background-color: #5cd65c
+}
+
+.p1{
+  background-color: #ff80ff;
+  color: #ffffff
+}
+
+.p2{
+  background-color: #ffffff;
+  color: #595959
+}
+
+
+.magical_box {
+  border: 2px solid #665544;
+  padding: inherit;
+  background-color: #595959;
+}
